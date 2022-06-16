@@ -1,0 +1,45 @@
+body {
+background: url('gradient.jpg') repeat-x;
+text-align:center;
+}
+
+h1 {
+color: white;
+font-family: calibri;
+margin-top: -100px;
+}
+
+h2 {
+background: url('yellow.jpg');
+font-family: calibri;
+}
+
+h3 {
+background: url('yellow.jpg');
+font-family:calibri;
+margin-top: -100px;
+}
+
+
+nav {
+	background: url('gradient.jpg');
+	height: 50px;
+
+}
+
+nav ul li {
+	list-style-type:none;
+	float: left;
+}
+
+li a {
+	text-decoration: none;
+	color: white;
+	line-height: 50px;
+	font-size: 20px;
+	margin: 0px 40px;
+}
+
+li a:hover {
+	color: yellow;
+}
